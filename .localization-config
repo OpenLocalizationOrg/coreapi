@@ -1,9 +1,9 @@
 {
   "locales": [ "zh-cn", "ja-jp" ],
-  "files": ["!/*.md", "**/**/*.md", "**/*.md"],
+  "files": ["*.yml", "**/**/*.yml", "**/*.yml"],
   "includeDependencies": true,
   "autoPush": true,
-  "xliffVersion": "2.0",
+  "xliffVersion": "1.2",
   "useJavascriptMarkdownTransformer": true,
   "createHandoffFilePerLocale": false
 }
