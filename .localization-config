@@ -5,5 +5,5 @@
   "autoPush": true,
   "xliffVersion": "1.2",
   "useJavascriptMarkdownTransformer": true,
-  "createHandoffFilePerLocale": true
+  "createHandoffFilePerLocale": false
 }
