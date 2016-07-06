@@ -1,9 +1,9 @@
 {
   "locales": [ "zh-cn", "ja-jp" ],
-  "files": ["*.yml", "**/**/*.yml", "**/*.yml"],
+  "files": ["System.*.yml"],
   "includeDependencies": true,
   "autoPush": true,
   "xliffVersion": "1.2",
   "useJavascriptMarkdownTransformer": true,
-  "createHandoffFilePerLocale": false
+  "createHandoffFilePerLocale": true
 }
