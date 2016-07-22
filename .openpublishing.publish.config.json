@@ -15,7 +15,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "docs"
+      "build_entry_point": "op"
     }
   ],
   "notification_subscribers": [],
@@ -27,7 +27,8 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "master"
+      "branch": "master",
+      "branch_mapping": {}
     }
   ]
 }
