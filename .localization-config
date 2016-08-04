@@ -5,5 +5,8 @@
   "autoPush": true,
   "xliffVersion": "1.2",
   "useJavascriptMarkdownTransformer": true,
-  "createHandoffFilePerLocale": false
+  "createHandoffFilePerLocale": false,
+  "markdownTransformerOptions": {
+	  "ymlFilter": "Mref"
+	 }
 }
