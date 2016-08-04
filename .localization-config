@@ -7,6 +7,6 @@
   "useJavascriptMarkdownTransformer": true,
   "createHandoffFilePerLocale": false,
   "markdownTransformerOptions": {
-	  "ymlFilter": "Mref"
+	  "yamlFilter": "Mref"
 	 }
 }
