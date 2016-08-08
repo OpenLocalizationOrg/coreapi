@@ -23,7 +23,7 @@
         ]
       }
     ],
-    "overwrite": ["apispec/*.md"],
+    "overwrite": [],
     "externalReference": [],
     "globalMetadata": {},
     "fileMetadata": {},
