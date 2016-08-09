@@ -1,6 +1,6 @@
 {
   "locales": [ "zh-cn" ],
-  "files": ["Microsoft.CSharp.RuntimeBinder.*.yml"],
+  "files": ["**/*.yml"],
   "includeDependencies": true,
   "autoPush": true,
   "xliffVersion": "1.2",
