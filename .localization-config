@@ -1,11 +1,11 @@
 {
-  "locales": [ "zh-cn", "ja-jp" ],
+  "locales": [ "zh-cn" ],
   "files": ["Microsoft.CSharp.RuntimeBinder.*.yml"],
   "includeDependencies": true,
   "autoPush": true,
   "xliffVersion": "1.2",
   "useJavascriptMarkdownTransformer": true,
-  "createHandoffFilePerLocale": false,
+  "createHandoffFilePerLocale": true,
   "markdownTransformerOptions": {
 	  "yamlFilter": "Mref"
 	 }
